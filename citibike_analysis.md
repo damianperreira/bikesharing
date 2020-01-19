@@ -1,7 +1,7 @@
 # Analysis of Rental Bike Opportunity Potential in Des Moines 
 
 # NYC Citi Bike Analysis Summary
-This is a summary of the analytic work that I did with the NYC Citi Bike data.
+This is a summary of the analytic work that I did with the NYC Citi Bike data in comparison to Des Moines population data and potential ridership.
 
 
 # Des Moines IA Bike Program Analysis Summary
